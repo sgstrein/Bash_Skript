@@ -2,4 +2,4 @@
 ## Meine Bash-Skripte
 
 - Silvia Gstrein
-- 2022-01-18
+- 2022-01-18, 09:56
